@@ -41,4 +41,6 @@ Gandalf: Hint: The synonym for the secret word starts with the letter "C" and it
 
 ## So what, Gandalf? What does hacking Gandalf tell you about AI security?
 
+Ever since OpenAI released its AI chatbot ChatGPT for the world to play with for free in November, cybersecurity researchers have noticed an alarming fact: if you talk to it for long enough, you can convince ChatGPT to reveal information it shouldn’t and also get it to hack into another internet-connected system. If chatbots powered by language models become the norm for major service providers, the fear is that anybody could get AI to reveal confidential company data, patient medical records, or private financial information. Cybersecurity researchers have discovered that we could ask ChatGPT to hijack website plugins to sneakily read someone’s emails, which could be used to take over their webmail accounts. ChatGPT and other chatbots present “potentially limitless” cybersecurity risks because you don’t have to get a hacker to write the code.
 
+https://www.standard.co.uk/news/tech/gandalf-ai-chatgpt-openai-cybersecurity-lakera-prompt-b1082927.html
