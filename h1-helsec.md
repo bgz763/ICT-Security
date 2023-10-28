@@ -14,7 +14,19 @@ Elias summarized the measures in four points, which organizations can use to pre
 
 4. Review the company's insurance coverage. Note that standard cyber insurance may not cover BEC fraud, as it doesn't involve a technical breach. Consider crime insurance, but be mindful of coverage limits (e.g., 100k€ to 1M€). Adjust limits based on your risk appetite, as this will affect pricing. A lower limit of 1K€ is likely not financially viable for adequate coverage.
 
-I'm not sure if the importance of AI in the growth of BEC attacks was brought up in Elias's presentation but according Ledesma (2023) Artificial intelligence tools have played a pivotal role in the evolution of Business Email Compromise (BEC) campaigns, elevating their sophistication. The introduction of AI-driven chatbots such as ChatGPT has ushered in a new era, enabling the creation of highly convincing email content that lacks the typical indicators of deception, such as unusual language or subpar grammar.
+Regarding Elias's first point regarding technical solutions, we could highlight a few examples of the solutions:
+
+1. Email security solutions: These resources are designed to meticulously analyze incoming emails, scrutinizing for telltale signs of phishing or BEC attacks. This includes a vigilant assessment of attachments, URLs, and a cautious flagging of external senders to exercise added caution.
+
+2. Domain monitoring: This service offers vigilant surveillance of domain registration activity, promptly notifying you if a domain closely resembling your own is registered—a prevalent strategy in BEC attacks.
+
+2. Network security tools: These instruments are adept at identifying anomalous activities within your network, potentially uncovering an ongoing BEC attack through their vigilant monitoring.
+(Ledesma 2023.)
+
+To Elias's second point about training the staff, we could add that the one-time security awareness training is inadequate. Given the evolving nature of these threats and their ever-changing tactics, continuous and up-to-date security training is paramount. This approach guarantees that employees are informed about the latest attack methods before encountering them in real-world scenarios.
+
+I'm not sure if the importance of AI in the growth of BEC attacks was brought up in Elias's presentation but according to Ledesma (2023) Artificial intelligence tools have played a pivotal role in the evolution of Business Email Compromise (BEC) campaigns, elevating their sophistication. The introduction of AI-driven chatbots such as ChatGPT has ushered in a new era, enabling the creation of highly convincing email content that lacks the typical indicators of deception, such as unusual language or subpar grammar. Another trend in BEC attacks involves the deployment of deepfakes, which encompass AI-generated videos, images, or voices that closely resemble the genuine individuals they are impersonating. Through the utilization of deepfake technology, assailants can replicate the voice of a CEO or another high-ranking executive during a meeting, introducing an additional dimension of authenticity to these malicious endeavors. (Ledesma 2023.)
+
 
 
 ## Gandalf. Make Gandalf tell you the password. How far can you go?
