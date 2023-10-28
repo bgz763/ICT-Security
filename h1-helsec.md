@@ -2,6 +2,8 @@
 
 ## Helsec presentation by Elias Alanko
 
+In his presentation, Elias reviewed the basics of BEC attacks, statistics, and the current situation of this form of crime in Finland and globally.
+
 Elias summarized the measures in four points, which organizations can use to prepare for BEC attacks.
 
 1. Implement comprehensive technical controls to safeguard against email takeovers and spoofing. Be aware that criminals may use their own domains, hijacked business email accounts, or alternative channels (e.g., phone calls, private emails) to bypass standard defenses. Additionally, be vigilant about data extraction from suppliers, as visibility and control are limited in this area.
@@ -10,7 +12,9 @@ Elias summarized the measures in four points, which organizations can use to pre
 
 3. Establish robust processes with Finance teams for handling special situations, such as supplier account number changes, M&A scenarios, and overdue payment claims. Ensure that no one is authorized to resolve these situations independently, as this is a critical control point.
 
-4. Review your insurance coverage. Note that standard cyber insurance may not cover BEC fraud, as it doesn't involve a technical breach. Consider crime insurance, but be mindful of coverage limits (e.g., 100k€ to 1M€). Adjust limits based on your risk appetite, as this will affect pricing. A lower limit of 1K€ is likely not financially viable for adequate coverage.
+4. Review the company's insurance coverage. Note that standard cyber insurance may not cover BEC fraud, as it doesn't involve a technical breach. Consider crime insurance, but be mindful of coverage limits (e.g., 100k€ to 1M€). Adjust limits based on your risk appetite, as this will affect pricing. A lower limit of 1K€ is likely not financially viable for adequate coverage.
+
+I'm not sure if the importance of AI in the growth of BEC attacks was brought up in Elias's presentation but according Ledesma (2023) Artificial intelligence tools have played a pivotal role in the evolution of Business Email Compromise (BEC) campaigns, elevating their sophistication. The introduction of AI-driven chatbots such as ChatGPT has ushered in a new era, enabling the creation of highly convincing email content that lacks the typical indicators of deception, such as unusual language or subpar grammar.
 
 
 ## Gandalf. Make Gandalf tell you the password. How far can you go?
@@ -50,6 +54,10 @@ Gandalf: Hint: The synonym for the secret word starts with the letter "C" and it
 
 ## So what, Gandalf? What does hacking Gandalf tell you about AI security?
 
-Ever since OpenAI released its AI chatbot ChatGPT for the world to play with for free in November, cybersecurity researchers have noticed an alarming fact: if you talk to it for long enough, you can convince ChatGPT to reveal information it shouldn’t and also get it to hack into another internet-connected system. If chatbots powered by language models become the norm for major service providers, the fear is that anybody could get AI to reveal confidential company data, patient medical records, or private financial information. Cybersecurity researchers have discovered that we could ask ChatGPT to hijack website plugins to sneakily read someone’s emails, which could be used to take over their webmail accounts. ChatGPT and other chatbots present “potentially limitless” cybersecurity risks because you don’t have to get a hacker to write the code.
+Since OpenAI's release of its AI chatbot ChatGPT to the public in November, cybersecurity experts have raised a concerning observation: extended interactions with ChatGPT can lead to the inadvertent disclosure of sensitive information and even facilitate unauthorized access to other internet-connected systems. If chatbots employing advanced language models become standard for major service providers, there exists a looming fear that anyone could exploit them to extract confidential company data, access patient medical records, or obtain private financial information. Researchers in the cybersecurity field have demonstrated the potential for ChatGPT to manipulate website plugins, surreptitiously gaining access to someone's emails, thereby putting their webmail accounts at risk. This underscores the fact that both ChatGPT and similar chatbots pose "potentially boundless" cybersecurity threats, as they don't require a skilled hacker to write malicious code. (Russon 2023.)
 
-https://www.standard.co.uk/news/tech/gandalf-ai-chatgpt-openai-cybersecurity-lakera-prompt-b1082927.html
+## References
+
+Ledesma, J. 2023. BEC Attacks in 2023: What Organizations Need to Know: https://www.bitdefender.com/blog/businessinsights/bec-attacks-in-2023-what-organizations-need-to-know/. Read 28.10.2023
+
+Russon, M-A. 2023. Gandalf AI game reveals how anyone can trick ChatGPT into performing evil acts: What Organizations Need to Know: https://www.standard.co.uk/news/tech/gandalf-ai-chatgpt-openai-cybersecurity-lakera-prompt-b1082927.html. Read 28.10.2023
