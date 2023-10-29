@@ -6,13 +6,7 @@ In his presentation, Elias reviewed the basics of BEC attacks, statistics, and t
 
 Elias summarized the measures in four points, which organizations can use to prepare for BEC attacks.
 
-1. Implement comprehensive technical controls to safeguard against email takeovers and spoofing. Be aware that criminals may use their own domains, hijacked business email accounts, or alternative channels (e.g., phone calls, private emails) to bypass standard defenses. Additionally, be vigilant about data extraction from suppliers, as visibility and control are limited in this area.
-
-2. Educate personnel, particularly Finance staff, to recognize Business Email Compromise (BEC) attacks. Use real-life scenarios to train them, emphasizing that pre-texting tactics may not always involve clicking links or downloading suspicious attachments.
-
-3. Establish robust processes with Finance teams for handling special situations, such as supplier account number changes, M&A scenarios, and overdue payment claims. Ensure that no one is authorized to resolve these situations independently, as this is a critical control point.
-
-4. Review the company's insurance coverage. Note that standard cyber insurance may not cover BEC fraud, as it doesn't involve a technical breach. Consider crime insurance, but be mindful of coverage limits (e.g., 100k€ to 1M€). Adjust limits based on your risk appetite, as this will affect pricing. A lower limit of 1K€ is likely not financially viable for adequate coverage.
+Implement robust technical controls, prioritizing defense against email takeovers and spoofing. Recognize criminals' adaptability, utilizing their domains or hijacked business accounts. Be mindful of alternative channels like phone calls or private emails where detection may be limited. Additionally, acknowledge the risk of data extraction from suppliers. Educate personnel, especially Finance staff, on identifying Business Email Compromise (BEC) attacks using real-world scenarios. Address pre-texting awareness beyond just clicking links or attachments. Establish strong processes within Finance teams for handling critical situations, preventing individual resolutions. Lastly, review insurance coverage, noting that standard cyber insurance may not cover BEC fraud. Consider crime insurance with appropriate limits, avoiding excessively low coverage for financial viability.
 
 Regarding Elias's first point of the technical controls, we could highlight a few examples of the solutions:
 
